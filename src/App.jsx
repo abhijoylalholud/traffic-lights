@@ -1,10 +1,12 @@
 import './App.css'
 import TrafficLight from './components/TrafficLight'
+import TimerApp from './components/TimerApp'
 
 function App() {
 	return (
 		<>
-			<TrafficLight />
+			{/* <TrafficLight /> */}
+			<TimerApp />
 		</>
 	)
 }
